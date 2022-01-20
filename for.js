@@ -9,6 +9,7 @@ for(var i = 0; i<items.length; i++)
     if(typeof items[i]!='string') continue;
     {
         console.log(items[i]);
+        //new changes here
         
     }
 }
